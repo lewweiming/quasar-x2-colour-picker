@@ -1,6 +1,6 @@
 # Quasar App (quasar-x2-colour-picker)
 
-A simple colour picker for Quasar Framework
+A simple colour picker for Quasar Framework. Do you need a quick way to browse hex and class values for in-built colours for Quasar? This tool may help! With the Quasar X2 Colour Picker, you can find colour values quickly for your next Quasar application.
 
 ## Screenshot
 
