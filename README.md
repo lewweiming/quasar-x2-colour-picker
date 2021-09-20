@@ -1,2 +1,8 @@
-# quasar-x2-colour-picker
-Basic colour picker for developers based on Quasar Framework
+# Quasar App (quasar-x2-colour-picker)
+
+A simple colour picker for Quasar Framework
+
+## Code Patterns
+
+- Re-usable tooltip pattern
+- Seamless dialog pattern
