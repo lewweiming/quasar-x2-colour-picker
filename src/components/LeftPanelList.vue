@@ -15,14 +15,13 @@
 </template>
 
 <script>
-const items = []
 
-// const items = [
-//   {
-//     label: "Grid",
-//     route: 'grid'
-//   }
-// ];
+const items = [
+  {
+    label: "Colour Schemes",
+    route: 'colour-schemes'
+  }
+];
 
 export default {
   data() {
